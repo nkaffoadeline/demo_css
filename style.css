@@ -1,3 +1,10 @@
 body {
     background-color: lightblue;
 }
+
+p {
+    color: red;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
